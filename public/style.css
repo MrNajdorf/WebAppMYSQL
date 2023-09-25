@@ -1,0 +1,7 @@
+.row{
+    color:rgb(255, 203, 255);
+    background-color: rgb(132, 0, 255);
+    border: solid rgb(219, 183, 249) 1.5px;
+    border-radius: 2px;
+    align-items: center;
+}
